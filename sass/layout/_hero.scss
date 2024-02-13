@@ -1,0 +1,36 @@
+.hero{
+    display: flex;
+    align-items: center;
+    margin-top: 67px;
+}
+.hero-box2{
+    margin-left: auto;
+}
+.title{
+    color: rgb(51, 51, 51);
+    font-family: "Roboto", sans-serif;
+    font-size: 39px;
+    font-weight: 400;
+    line-height: 45px;
+    margin-bottom: 11px;
+}
+.hero-p1{
+    font-family: "Roboto", sans-serif;
+}
+.hero-box2-text1{
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 21px;
+    color: rgba(0, 0, 0, 0.5);
+    max-width: 320px;
+    margin-left: -50px;
+    margin-top: 23px;
+}   
+.hero-box2{
+    margin-bottom: 20px;
+}
+.hero-box1{
+    display: inline-block;
+}
